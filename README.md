@@ -18,13 +18,21 @@ Este app consiste em proporcionar a experiência de uma campanha eleitoral na qu
 </div>
 
 <div align="center">
-  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/eae9f118-2903-40d7-aba3-fed691ef9c12" width="200px" />
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/eae9f118-2903-40d7-aba3-fed691ef9c12" width="220px" />
 
-  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/35962647-7d17-4551-b574-226148ca8d77" width="200px" />
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/35962647-7d17-4551-b574-226148ca8d77" width="220px" />
 
-  <img src="" width="200px" />
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/c44e7f1f-e96f-4cef-ab8a-e2bcbbcb5bcb" width="220px" />
 
-  <img src="" width="200px" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/2a34b30f-a88d-49cf-864a-189b5b627b62" width="220px" />
+
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/16b1be34-c1d5-4edf-b88a-c36cc67e3cf5" width="220px" />
+
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/a41d87b7-3a75-4819-b9b2-730347ab6c1c" width="220px" />
+
 </div>
 
 
