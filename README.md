@@ -17,4 +17,15 @@ Este app consiste em proporcionar a experiência de uma campanha eleitoral na qu
   <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/04596bca-ca8e-45d2-bebc-173aff3b775b" width="200px" />
 </div>
 
+<div align="center">
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/eae9f118-2903-40d7-aba3-fed691ef9c12" width="200px" />
+
+  <img src="https://github.com/MeiaNoite636/Gremio-Estudantil/assets/91136155/35962647-7d17-4551-b574-226148ca8d77" width="200px" />
+
+  <img src="" width="200px" />
+
+  <img src="" width="200px" />
+</div>
+
+
 
